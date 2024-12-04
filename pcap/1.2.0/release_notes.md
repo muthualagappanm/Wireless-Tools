@@ -1,0 +1,1 @@
+# Microchip PCAP Utility Release Notes 1.2.0 to be added here
