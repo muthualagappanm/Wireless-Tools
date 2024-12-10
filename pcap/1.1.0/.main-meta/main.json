@@ -1,0 +1,91 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.portal.softwareTools",
+    "content": {
+        "metaDataVersion": "1.0.0",
+        "name": "com.microchip.software-tools.pcap",
+        "version": "1.1.0-test-from-github-upload",
+        "displayName": "Microchip PCAP Utility Tool",
+        "shortDescription": "Microchip PCAP Utility Tool connects the Wireshark Graphical User Interface (GUI) and the sniffer firmware running on the ZigBit® USB stick. The sniffer captures the packets based on the channel and channel page selection. Captured data is sent to Wireshark software to show the decoded packets on the GUI. The sniffer captures IEEE® 802.15.4, Zigbee® packets or custom protocol.",
+        "keywords": [
+            "pcap",
+            "sniffer",
+            "wireshark",
+            "IEEE 802.15.4",
+            "ZigBit® USB stick"
+        ],
+        "additionalData": {
+          "longDescription": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.longDescriptionRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "rawBaseReadmeUrl":  "https://raw.githubusercontent.com/muthualagappanm/Wireless-Tools/refs/heads/main/pcap/1.1.0/release_notes.md",
+                "webBaseReadmeUrl":  "https://github.com/muthualagappanm/Wireless-Tools/blob/main/pcap/1.1.0/release_notes.md",
+                "rawBaseUrl":  "https://raw.githubusercontent.com/muthualagappanm/Wireless-Tools/refs/heads/main/",
+                "webBaseUrl":  "https://github.com/muthualagappanm/Wireless-Tools/blob/main/",
+                "mimeType": "text/markdown"
+            }
+        },
+            "gettingMechanisms": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.toolsGettingMechanismsRef",
+                "content": {
+                  "metaDataVersion": "1.0.0",
+                  "openWith": [
+                    {
+                      "metaDataVersion": "1.0.0",
+                      "category": "com.microchip.portal.urlGettingMechanismRef",
+                      "content": {
+                        "metaDataVersion": "1.0.0",
+                        "type": "url",
+                        "data": {
+                          "url": "https://gallery.microchip.com/packages/microchippcap-utility/1.1.0",
+                          "name": "Microchip.com"
+                        }
+                      }
+                    }
+                  ],
+                  "download": [
+                    {
+                      "metaDataVersion": "1.0.0",
+                      "category": "com.microchip.portal.urlGettingMechanismRef",
+                      "content": {
+                        "metaDataVersion": "1.0.0",
+                        "type": "url",
+                        "data": {
+                            "url": "https://gallery.microchip.com/api/v2/package/microchippcap-utility/1.1.0",
+                            "name": "Microchip PCAP Utility Tool Windows 1.1.0"
+                            }
+                        }
+                    },
+                    {
+                      "metaDataVersion": "1.0.0",
+                      "category": "com.microchip.portal.urlGettingMechanismRef",
+                      "content": {
+                        "metaDataVersion": "1.0.0",
+                        "type": "url",
+                        "data": {
+                            "url": "https://gallery.microchip.com/api/v2/package/microchippcap-utility(linux)/1.1.0",
+                            "name": "Microchip PCAP Utility Tool Linux 1.1.0"
+                            }
+                        }
+                    },
+                    {
+                      "metaDataVersion": "1.0.0",
+                      "category": "com.microchip.portal.urlGettingMechanismRef",
+                      "content": {
+                        "metaDataVersion": "1.0.0",
+                        "type": "url",
+                        "data": {
+                            "url": "https://gallery.microchip.com/api/v2/package/microchippcap-utilitymacos/1.0.0",
+                            "name": "Microchip PCAP Utility Tool x64(MacOS) 1.0.0"
+                            }
+                        }
+                    }
+                  ]
+                }
+              }
+        }
+    }
+  }
